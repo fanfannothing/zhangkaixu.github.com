@@ -1,7 +1,4 @@
-
-<link href="https://raw.github.com/clownfart/Markdown-CSS/master/markdown.css" rel="stylesheet"></link>
-
-
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="http://jasonm23.github.com/markdown-css-themes/foghorn.css" rel="stylesheet"></link>
 
 
