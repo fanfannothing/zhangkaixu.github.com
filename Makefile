@@ -1,2 +1,5 @@
-index.html: index.md
-	markdown < index.md > index.html
+all: index.html cws_model.html
+
+%.html: %.md
+	markdown <$*.md > $*.html
+
