@@ -13,6 +13,7 @@ MathJax.Hub.Config({
 #中文分词模型简介
 *   本文基于作者的学位论文的引言部分，是对当前常用的一套分词模型的介绍和梳理。
 *   如果对文字有任何疑问或意见，欢迎[在此留言](http://cws.miniban.cn/)，或联系[作者](http://weibo.com/zhangkaixu)。
+*   想了解更多？请参考[中文分词文献列表](http://zhangkaixu.github.com/bibpage/cws.html)。
 
 ##最优化问题建模
 
