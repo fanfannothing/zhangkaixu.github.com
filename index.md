@@ -13,7 +13,7 @@ Ph.D. from Tsinghua University, China.<br/>
 
 **Research interests**: natural language processing, 
     Chinese word segmentation([bibliography](http://zhangkaixu.github.com/bibpage/cws.html)),
-    Chinese POS-tagging and electroencephalography (EEG).<br/>
+    Chinese POS-tagging and parsing.<br/>
 **Contact**: kareyzhang at free email service provided by Google
 
 ## Software and demos
@@ -24,6 +24,10 @@ Ph.D. from Tsinghua University, China.<br/>
     > A framework for Chinese NLP in the labs
 
 ## Publications
+
+*   **Kaixu Zhang**, Maosong Sun and Changle Zhou. 2012<br/>
+    Word Segmentation on Chinese Mirco-Blog Data with a Linear-Time Incremental Model<br/>
+    *The Second CIPS-SIGHAN Joint Conference on Chinese Language Processing* 
 
 *   **Kaixu Zhang** and Maosong Sun. 2012.<br/>
     Unified Framework of Performing Chinese Word Segmentation and Part-of-Speech Tagging<br/>
