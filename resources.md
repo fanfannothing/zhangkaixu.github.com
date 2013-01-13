@@ -22,8 +22,8 @@
 
 -----
 
-作者常年接受捐助：<br/>
 [个人主页](http://zhangkaixu.github.com/)、
 [微博](http://weibo.com/zhangkaixu)
 
+欢迎捐助<br/>
 捐助者列表：
