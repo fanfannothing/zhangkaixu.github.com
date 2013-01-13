@@ -15,9 +15,15 @@
 [Q3](http://pan.baidu.com/share/link?shareid=215978&uk=1795543089)
 [Q4](http://pan.baidu.com/share/link?shareid=215979&uk=1795543089)
 
+-----
+
+本资源属于每一个有需要的人。
+任何人可以以任何形式使用本资源。
 
 -----
 
-自筹资金项目，作者常年接受捐助：<br/>
+作者常年接受捐助：<br/>
 [个人主页](http://zhangkaixu.github.com/)、
 [微博](http://weibo.com/zhangkaixu)
+
+捐助者列表：
