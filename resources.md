@@ -14,5 +14,8 @@
 [Q4](http://pan.baidu.com/share/link?shareid=215979&uk=1795543089)
 
 
+-----
 
-[作者](http://zhangkaixu.github.com/)常年接受捐赠。
+自筹资金项目，作者常年接受捐赠。<br/>
+[个人主页](http://zhangkaixu.github.com/)、
+[微博](http://weibo.com/zhangkaixu)

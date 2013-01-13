@@ -14,20 +14,15 @@ Ph.D. from Tsinghua University, China.<br/>
 **Research interests**: natural language processing, 
     Chinese word segmentation([bibliography](http://zhangkaixu.github.com/bibpage/cws.html)),
     Chinese POS-tagging and parsing.<br/>
-**Contact**: kareyzhang at free email service provided by Google
+**Contact**: kareyzhang at free email service provided by Google; [Weibo](http://weibo.com/zhangkaixu)
 
-## Software and demos
-*   [THULAC](http://nlp.csai.tsinghua.edu.cn/thulac/) - TsingHua University Lexical Analyzer of Chinese
-    > A practical Chinese word segmenter and POS tagger
-    
-*   [isan](https://github.com/zhangkaixu/isan)
-    > A framework for Chinese NLP in the labs
 
 ## Publications
 
 *   **Kaixu Zhang**, Maosong Sun and Changle Zhou. 2012<br/>
     Word Segmentation on Chinese Mirco-Blog Data with a Linear-Time Incremental Model<br/>
-    *The Second CIPS-SIGHAN Joint Conference on Chinese Language Processing* 
+    *The Second CIPS-SIGHAN Joint Conference on Chinese Language Processing* <br/>
+    Won the **first place** in the CIPS-SIGHAN CWS bake-off on Chinese micro-blog data (17 participants).
 
 *   **Kaixu Zhang** and Maosong Sun. 2012.<br/>
     Unified Framework of Performing Chinese Word Segmentation and Part-of-Speech Tagging<br/>
@@ -61,3 +56,10 @@ Ph.D. from Tsinghua University, China.<br/>
     *中文信息学报* 23, no. 1:100-105.
     \[[WWW](http://ckrd.cnki.net/grid20/GetInfoByDOI.aspx?DOI=CNKI:SUN:MESS.0.2009-01-017)\]
     
+
+## Software and demos
+*   [THULAC](http://nlp.csai.tsinghua.edu.cn/thulac/) - TsingHua University Lexical Analyzer of Chinese
+    > A practical Chinese word segmenter and POS tagger
+    
+*   [isan](https://github.com/zhangkaixu/isan)
+    > A framework for Chinese NLP in the labs
