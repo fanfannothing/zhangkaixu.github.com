@@ -7,6 +7,8 @@
 
 25万篇，2.5亿字。 
 
+[样例](sina.news.example.txt)
+
 分季度下载： 
 [Q1](http://pan.baidu.com/share/link?shareid=215973&uk=1795543089)
 [Q2](http://pan.baidu.com/share/link?shareid=215975&uk=1795543089)
@@ -16,6 +18,6 @@
 
 -----
 
-自筹资金项目，作者常年接受捐赠。<br/>
+自筹资金项目，作者常年接受捐助：<br/>
 [个人主页](http://zhangkaixu.github.com/)、
 [微博](http://weibo.com/zhangkaixu)
