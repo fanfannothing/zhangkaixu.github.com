@@ -19,9 +19,17 @@ Ph.D. from Tsinghua University, China.<br/>
 
 ## Publications
 
+*   2013<br/>
+    基于自动编码器的中文词汇特征无监督学习<br/>
+    *第十二届全国计算语言学学术会议*
+
+*   2013<br/>
+    Improving Chinese Word Segmentation Using Partially Annotated Sentences <br/>
+    *The First International Symposium on Natural Language Processing based on Naturally Annotated Big Data, NLP-NABD 2013*
+
 *   **Kaixu Zhang**, Maosong Sun and Changle Zhou. 2012<br/>
     Word Segmentation on Chinese Mirco-Blog Data with a Linear-Time Incremental Model<br/>
-    *The Second CIPS-SIGHAN Joint Conference on Chinese Language Processing* <br/>
+    *The Second CIPS-SIGHAN Joint Conference on Chinese Language Processing* \[[pdf](http://www.aclweb.org/anthology-new/W/W12/W12-6308.pdf)\] \[[slides](http://vdisk.weibo.com/s/li11f)\] <br/>
     Won the **first place** in the CIPS-SIGHAN CWS bake-off on Chinese micro-blog data (17 participants).
 
 *   **Kaixu Zhang** and Maosong Sun. 2012.<br/>
