@@ -41,8 +41,8 @@ source_encoding = 'utf-8-sig'
 master_doc = 'index'
 
 # General information about the project.
-project = '开讲'
-copyright = '2013, 张开旭'
+project = u'开讲'
+copyright = u'2013, 张开旭'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
