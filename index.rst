@@ -4,7 +4,10 @@
    contain the root `toctree` directive.
 
 Welcome to 开讲's documentation!
-==============================
+=================================================
+
+:math:`\sin{x}`
+
 
 Contents:
 
