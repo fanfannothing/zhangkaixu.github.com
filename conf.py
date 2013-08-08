@@ -28,6 +28,7 @@ import sys, os
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 #extensions = ['sphinx.ext.mathjax']
 extensions = [
+        'sphinx.ext.graphviz',
         'sphinx.ext.pngmath',
         'matplotlib.sphinxext.plot_directive',
         ]
