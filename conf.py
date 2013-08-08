@@ -30,6 +30,7 @@ import sys, os
 extensions = [
         'sphinx.ext.graphviz',
         'sphinx.ext.pngmath',
+        'sphinx.ext.intersphinx',
         'matplotlib.sphinxext.plot_directive',
         ]
 
