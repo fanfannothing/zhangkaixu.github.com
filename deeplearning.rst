@@ -19,3 +19,4 @@
     deep.rst
     pretraining.rst
     embedding.rst
+    deeplearning_resources.rst
