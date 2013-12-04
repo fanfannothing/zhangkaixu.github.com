@@ -19,11 +19,11 @@ Ph.D. from Tsinghua University, China.<br/>
 
 ## Publications
 
-*   2013<br/>
+*   **张开旭** , 周昌乐. 2013<br/>
     基于自动编码器的中文词汇特征无监督学习<br/>
-    *第十二届全国计算语言学学术会议*
+    *第十二届全国计算语言学学术会议* and *中文信息学报*
 
-*   2013<br/>
+*   **Kaixu Zhang** , Jinsong Su and Changle Zhou. 2013<br/>
     Improving Chinese Word Segmentation Using Partially Annotated Sentences <br/>
     *The First International Symposium on Natural Language Processing based on Naturally Annotated Big Data, NLP-NABD 2013*
 
